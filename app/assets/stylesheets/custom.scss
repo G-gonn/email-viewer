@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+}
+
+thead {
+    display: flex;
+    flex-direction: row;
+}
+
+table {
+    width: 800px;
+    margin-bottom: 30px;
+}
+
+th {
+    background-color: steelblue;
+    color: white;
+    padding: 5px 10px 5px 10px;
+}
+
+.object {
+	display: inline-block;
+	position: absolute;
+}
+
+.content {
+	display: inline-block;
+	position: absolute;
+}
